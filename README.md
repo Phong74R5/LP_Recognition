@@ -6,6 +6,7 @@
 2. Nhận diện ký tự trên biển số bằng mô hình CNN.
 
 ## Các thành phần chính
+![License Plate](img/mohinh.png)
 - **Phát hiện biển số xe**:
   - Sử dụng YOLOv8 để xác định vùng biển số và vị trí từng ký tự.
 - **Nhận diện ký tự**:
