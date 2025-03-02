@@ -62,7 +62,7 @@ pure_eval==0.2.3
 py-cpuinfo==9.0.0
 Pygments==2.18.0
 pyparsing==3.2.0
-PyQt5==5.15.7
+PyQt5==5.15.9
 PyQt5-Qt5==5.15.2
 PyQt5_sip==12.15.0
 python-dateutil==2.9.0.post0
