@@ -53,3 +53,9 @@
 
 ## Mô hình mạng CNN
 ![License Plate](img/CNN.png)
+
+
+## Thành viên nhóm
+- **Lê Trí Bình An** - 22119160
+- **Lê Hồng Phong** - 22119210
+- **Nguyễn Huỳnh Thanh Phúc** - 22119212
